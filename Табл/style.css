@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,html {
+    height: 100%;
+}
+table {
+    background-color:#ffff00;
+    width: 600px;
+    margin: 0 auto;
+    height: 270px;
+}
+.color_purple {
+    background-color:#7004eb;
+}
+.color_red {
+    color:#ff0000;
+}
+.background-color_red {
+    background-color: #ff0000;
+}
+.BC_blue {
+    background-color: #0000ff;
+    color: #ffffff;
+}
+.orange {
+    background-color:#ffa500;
+}
+.color_Microsoft {
+    color:#008a00;
+}
+.background-color_white {
+    background-color: #ffffff;
+}
+.background-color_Blizzard {
+    background-color: #4682b4;
+}
+.color_Blizzard {
+    color: #0000ff;
+}
