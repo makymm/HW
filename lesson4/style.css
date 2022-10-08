@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html {
+    height: 100%;
+}
+
+.color1 {
+    color:rgb(255, 0, 0);
+}
+.color2 {
+    color:red ;
+}
+.color3 {
+    color:#FF0000;
+}
+p {
+    color:blue;
+}
+.priority2 {
+    color:aqua;
+}
+#priority3{
+    color: violet;
+}
+.priority5 {
+    color: orange!important;
+}
+.priority {
+    display: flex;
+    font-size: 32px;
+}
+.bg {
+    width: 400px;
+    height: 379px;
+    background: center url(1.jpg) no-repeat ;
+}
+
+
